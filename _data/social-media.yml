@@ -2,40 +2,40 @@ email:
   id: 'your.name@yoursite.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-solid fa-square-envelope'
 
 rss:
   id: '' # Leave this property empty
   href: '/feed.xml'
   title: 'RSS'
-  fa-icon: 'fa-rss-square'
+  fa-icon: 'fa-solid fa-rss-square'
 
 facebook:
   id: 'your-facebook-username'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
+  fa-icon: 'fa-brands fa-facebook-square'
 
 instagram:
   id: 'your-instagram-username'
   href: 'https://www.instagram.com/'
   title: 'Instagram'
-  fa-icon: 'fa-instagram'
+  fa-icon: 'fa-brands fa-instagram'
 
 twitter:
   id: 'your-twitter-name'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-brands fa-twitter-square'
 
 linkedin:
   id: 'your-linkedin-username'
   href: 'https://www.linkedin.com/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin-square'
+  fa-icon: 'fa-brands fa-linkedin'
 
 github:
   id: 'your-github-name'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-brands fa-github-square'
